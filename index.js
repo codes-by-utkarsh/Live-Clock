@@ -1,8 +1,4 @@
-// let time= new Date();
-// console.log(currentDate.getHours());
-// console.log(currentDate.getMinutes());
-// console.log(currentDate.getSeconds());
-// console.log("hi");
+
 let interval = setInterval(()=>{
     const time  = new Date();
     const option = {
